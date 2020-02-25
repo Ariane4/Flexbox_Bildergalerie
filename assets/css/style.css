@@ -1,0 +1,10 @@
+body{
+    display: flex;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+figure{
+    margin: 6px 10px;
+}
